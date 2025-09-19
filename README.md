@@ -5,7 +5,10 @@ A prototype Electronic Medical Record system designed to assist healthcare profe
 Our goal is to turn cluttered medical data into clear, actionable insights, helping to reduce physician burnout and improve the speed and quality of patient care.
 
 ---
+Here is our video link:Synapse EMR
+https://youtu.be/SIIvIC4NGfc
 
+----
 ### ## 🎯 Core Features
 
 We focused on features that provide immediate value to a busy clinician:
