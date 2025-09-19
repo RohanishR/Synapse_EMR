@@ -1,0 +1,122 @@
+[
+  {
+    "contact": "+91 98765 43210",
+    "dentalRecords": [
+      {
+        "date": "2025-07-20",
+        "dentist_notes": "Minor plaque buildup detected. Gums are slightly inflamed, indicating early signs of gingivitis.",
+        "procedure": "Annual Cleaning & Check-up"
+      }
+    ],
+    "dob": "2006-12-08",
+    "familyBackground": {
+      "address": "123 Gandhi Road, Mumbai, Maharashtra",
+      "alcohol": "Socially",
+      "familyGeneticProblems": "Father has a history of Type 2 Diabetes and Hypertension.",
+      "fatherName": "Rajesh Patel",
+      "maritalStatus": "Unmarried",
+      "motherName": "Sunita Patel",
+      "smoking": "No"
+    },
+    "gender": "Male",
+    "healthRecords": [
+      {
+        "date": "2025-06-15",
+        "diastolic_bp": 82,
+        "doctor_notes": "Routine check-up. Vitals are stable.",
+        "pulse": 72,
+        "respiratory_rate": 16,
+        "systolic_bp": 125,
+        "temperature": 98.6
+      },
+      {
+        "date": "2025-09-12",
+        "diastolic_bp": 91,
+        "doctor_notes": "Patient complains of persistent headaches. BP is in the hypertension stage 1 range.",
+        "pulse": 78,
+        "respiratory_rate": 18,
+        "systolic_bp": 142,
+        "temperature": 98.7
+      }
+    ],
+    "id": "p7a8f",
+    "medicalReports": [
+      {
+        "assessment": "Hypertension Stage 1, likely stress-induced.",
+        "chiefComplaint": "Persistent headaches and occasional dizziness.",
+        "dateOfVisit": "2025-09-18",
+        "dentalExamination": "No significant findings. Good oral hygiene.",
+        "physicalExamination": {
+          "generalAppearance": "Patient appears well-nourished but fatigued.",
+          "vitalSigns": {
+            "bp_diastolic": "91",
+            "bp_systolic": "142",
+            "pulse": "78",
+            "temperature": "98.7"
+          }
+        },
+        "reportId": "dd6ad696-40ac-4e2d-b405-45aa71ac8d99",
+        "visionExamination": {
+          "fundusExam": "Normal",
+          "otherFindings": "No signs of hypertensive retinopathy.",
+          "visualAcuity_leftEye": "-1.50",
+          "visualAcuity_rightEye": "-1.25"
+        }
+      }
+    ],
+    "name": "Rohanish Raman",
+    "profile_picture_url": "https://ibb.co/sdgSGmXy",
+    "visionRecords": [
+      {
+        "date": "2025-05-10",
+        "left_eye_sph": "-1.50",
+        "optometrist_notes": "Patient's myopia has slightly progressed since the last visit.",
+        "right_eye_sph": "-1.25"
+      }
+    ]
+  },
+  {
+    "id": "k2c9x",
+    "name": "Priya Sharma",
+    "dob": "1990-03-22",
+    "gender": "Female",
+    "contact": "+91 91234 56789",
+    "profile_picture_url": "https://placehold.co/100x100/EC4899/FFFFFF?text=PS",
+    "familyBackground": {
+      "fatherName": "Anil Sharma",
+      "motherName": "Meena Sharma",
+      "maritalStatus": "Married",
+      "address": "456 Nehru Street, New Delhi",
+      "familyGeneticProblems": "Mother has a history of hypothyroidism.",
+      "smoking": "No",
+      "alcohol": "No"
+    },
+    "healthRecords": [
+      {
+        "date": "2025-08-01",
+        "systolic_bp": 115,
+        "diastolic_bp": 75,
+        "pulse": 68,
+        "respiratory_rate": 16,
+        "temperature": 98.4,
+        "doctor_notes": "Annual physical exam. All vitals are within the healthy range."
+      }
+    ],
+    "dentalRecords": [
+      {
+        "date": "2025-02-11",
+        "procedure": "Annual Cleaning",
+        "dentist_notes": "Excellent oral hygiene. No cavities or gum issues."
+      }
+    ],
+    "visionRecords": [
+      {
+        "date": "2024-11-20",
+        "right_eye_sph": "20/20",
+        "left_eye_sph": "20/20",
+        "optometrist_notes": "Patient has 20/20 vision. No prescription needed."
+      }
+    ],
+    "medicalReports": []
+  }
+]
