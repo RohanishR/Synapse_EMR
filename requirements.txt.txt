@@ -1,0 +1,12 @@
+# Web Framework
+Flask
+Flask-Cors
+
+# Google Gemini AI API
+google-generativeai
+
+# Environment Variables
+python-dotenv
+
+# Production Web Server (Recommended)
+gunicorn
