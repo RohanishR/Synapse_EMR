@@ -8,5 +8,5 @@ google-generativeai
 # Environment Variables
 python-dotenv
 
-# Production Web Server (Recommended)
-gunicorn
+
+
